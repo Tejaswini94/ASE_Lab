@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <title>Title</title>
+</head>
+<body>
+<link rel="stylesheet" href="login.css">
+<div class="modal-dialog">
+    <form action="javascript:void(0);" method="get">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h1 class="text-center">Register</h1>
+        </div>
+        <div class="modal-body">
+            <div class="form-group">
+                <input type="text" class="form-control input-lg" placeholder="firstname"/>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control input-lg" placeholder="lastname"/>
+            </div>
+            <div class="form-group">
+                <input id="usr" type="text" class="form-control input-lg" placeholder="Username"/>
+            </div>
+
+            <div class="form-group">
+                <input id="pwd" type="password" class="form-control input-lg" placeholder="Password"/>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" class="btn btn-block btn-lg btn-primary" value="Register" onclick="store()"/>
+                <!--span class="pull-middle"><a href="LOGIN.html">Login</a></span-->
+            </div>
+        </div>
+    </div>
+    </form>
+    </div>
+
+
+
+</body>
+</html>
+<script>
+    var usr = document.getElementById('usr');
+    var pwd = document.getElementById('pwd');
+    // storing input from register-form
+    function store() {
+        localStorage.setItem('usr', usr.value);
+        localStorage.setItem('pwd', pwd.value);
+        alert('registered successfully');
+        self.location="LOGIN.html";
+        //window.navigate("LoginPage.html");
+        //alert("back");
+        //window.history.back(-1);
+    }
+</script>

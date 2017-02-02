@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+</head>
+<body>
+<link rel="stylesheet" href="login.css">
+<div class="modal-dialog">
+    <form action="javascript:void(0);" method="get">
+    <div class="modal-content">
+        <div class="modal-header">
+
+            <h1 class="text-center">Welcome</h1>
+        </div>
+        <div class="modal-body">
+            <div class="form-group">
+                <input id="usr" type="text" class="form-control input-lg" placeholder="Username"/>
+            </div>
+
+            <div class="form-group">
+                <input id="pwd" type="password" class="form-control input-lg" placeholder="Password"/>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" class="btn btn-block btn-lg btn-primary" value="Login" onclick="check()" />
+                <span class="pull-middle"><a href="REGISTER.html">Register</a></span>
+                <span id="error_message"></span>
+            </div>
+        </div>
+    </div>
+    </form>
+    </div>
+
+
+</body>
+</html>
+<script>
+    // check if stored data from register-form is equal to entered data in the   login-form
+    function check() {
+        // stored data from the register-form
+        var storedName = localStorage.getItem('usr');
+        //document.write(storedName);
+        var storedPassword = localStorage.getItem('pwd');
+        // entered data from the login-form
+        var userName = document.getElementById('usr');
+        var userPassword = document.getElementById('pwd');
+        // check if stored data from register-form is equal to data from login form
+        if(userName.value !== storedName || userPassword.value !== storedPassword) {
+            document.getElementById("error_message").innerHTML="Invalid credentials. Please try again ";
+            //alert('ERROR4');
+        }
+        else {
+            alert('Login Successfully');
+            self.location="home.html";
+            //window.navigate("directions.html");
+        }
+    }
+</script>

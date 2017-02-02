@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="" data-ng-app="GoogleDirection">
+<head>
+    <meta t="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angular Demo</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js" type="application/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC56RD4urdFdFsP9tqYMwy9TMFrL3jLyrQ&v=3.exp&libraries=places"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!--link rel="stylesheet" href="css/main.css" -->
+
+    <style>
+        #map-canvas {
+            width: 1050px;
+            height: 850px;
+            margin-left: 100px;
+        }
+    </style>
+    <style>
+        .weatherModule {
+            background: #f2f2f2;
+            height: 300px;
+            width: 550px;
+            border: 1px dashed #ccc;
+            padding: 1em;
+            align-self: center;
+        }
+    </style>
+</head>
+
+
+
+<div class="wrapp" ng-controller="googlemapoutput">
+    <div class="container">
+        <div class="row">
+            <div class="input-field col s3 offset-s3">
+                <input id="startlocation" type="text"  ng-model="startlocation" autocomplete="on" />
+                <label for="startpoint">start point</label>
+            </div>
+
+            <div class="input-field col s3 ">
+                <input type="text"  ng-model="endlocation" id="endlocation"/>
+                <label for="endpoint">End point</label>
+            </div>
+            <script>
+                function init() {
+                    var input = document.getElementById('startlocation');
+                    var autocomplete = new google.maps.places.Autocomplete(input);
+                }
+
+                google.maps.event.addDomListener(window, 'load', init);
+            </script>
+            <script>
+                function init() {
+                    var input = document.getElementById('endlocation');
+                    var autocomplete = new google.maps.places.Autocomplete(input);
+                }
+
+                google.maps.event.addDomListener(window, 'load', init);
+            </script>
+        </div>
+        <div class="row">
+            <div class="input-field col s3 offset-s3">
+                <a class="waves-effect waves-light btn" id="btn" ng-click="calcRoute()"><button>Get Directions</button></a>
+            </div>
+            <div class="input-field col s3">
+                <a class="waves-effect waves-light btn" ng-click="getWeather()" ><button>Get Weather Report</button></a>
+            </div>
+            <br/></br>
+
+            <div id="map-canvas" style="height: 400px;"></div>
+            <div class="weatherModule">
+                <img style="height: 50px;" src="http://openweathermap.org/img/w//{{icon1}}.png"/><p class="currentConditions" >{{current1weather}}</p>
+                <img style="height: 50px" src="http://openweathermap.org/img/w/{{icon}}.png"/><p class="currentConditions" >{{current2weather}}</p>
+
+                <div class="currentIcon" ng-bind-html-unsafe="currentIcon.html"></div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+</body>
+<style>
+    .collection.with-header .collection-header {
+        background-color: #fff;
+        border-bottom: 1px solid #e0e0e0;
+        padding: 1px 1px;}
+</style>
+
+
+</html>
+
+
+<script>
+    angular.module('GoogleDirection', [])
+        .controller('googlemapoutput', function ($scope,$http) {
+            var map;
+            var mapOptions;
+            var directionsDisplay = new google.maps.DirectionsRenderer({
+                draggable: true
+            });
+            var directionsService = new google.maps.DirectionsService();
+
+            $scope.initialize = function () {
+                var pos = new google.maps.LatLng(0, 0);
+                var mapOptions = {
+                    zoom: 3,
+                    center: pos
+                };
+                map = new google.maps.Map(document.getElementById('map-canvas'),
+                    mapOptions);
+            };
+            $scope.calcRoute = function () {
+                var end = document.getElementById('endlocation').value;
+                var start = document.getElementById('startlocation').value;
+                var request = {
+                    origin: start,
+                    destination: end,
+                    travelMode: google.maps.TravelMode.DRIVING
+                };
+                directionsService.route(request, function (response, status) {
+                    if (status == google.maps.DirectionsStatus.OK) {
+                        directionsDisplay.setMap(map);
+                        directionsDisplay.setDirections(response);
+                        console.log(status);
+                    }
+                });
+            };
+            $scope.getWeather = function() {
+                //var enteredweather = document.getElementById('weather_box');
+                //console.log(enteredweather);
+                $http.get('http://api.openweathermap.org/data/2.5/weather?q='+$scope.startlocation+'&appid=419091ae033c24f63688fdd176b6f062').success(function(data) {
+
+                    console.log(data);
+                    temp = data.main.temp-273.12;
+                    //document.write(temp);
+                    $scope.icon1 = data.weather[0].icon;
+                    weather = data.weather[0].description;
+                    console.log(temp);
+                    $scope.current1weather = "Currently  "+ $scope.startlocation +" "+ temp + "oC and " + weather;
+                });
+                $http.get('http://api.openweathermap.org/data/2.5/weather?q='+$scope.endlocation+'&appid=419091ae033c24f63688fdd176b6f062').success(function(data) {
+                    console.log(data);
+                    temp = data.main.temp-273.12;
+                    //document.write(temp);
+                    $scope.icon = data.weather[0].icon;
+                    weather = data.weather[0].description;
+                    console.log(temp);
+                    $scope.current2weather = "Currently  "+ $scope.endlocation +" "+ temp + "oC and " + weather;
+                });
+            };
+
+            google.maps.event.addDomListener(window, 'load', $scope.initialize);
+        });
+
+</script>
