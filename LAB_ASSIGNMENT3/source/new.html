@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Eventually by HTML5 UP</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <script src="faceapp.js"></script>
+    <script src="keys.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+<header id="header">
+    <h2>Image tags and Text To Speech</h2>
+    <p class="bg-info" style="margin-bottom: 50px;">Enter an image url</p>
+</header>
+
+
+
+    <div class="form-group has-success has-feedback">
+    <label class="control-label sr-only" for="imgurl">Input group with success</label>
+    <div class="input-group">
+        <span class="input-group-addon">Img-url</span>
+        <input type="text" class="form-control" id="imgurl"  placeholder="Image URL" ><br/><br/>
+    </div>
+
+        <div>
+    <button class="btn btn-success btn-lg" onclick="run(document.getElementById('imgurl').value)" style="margin-top: 50px;">Get tags!</button>
+
+
+</div>
+<br />
+
+
+
+
+
+
+
+<table width="500" border="0" cellpadding="5">
+    <tr>
+
+        <td align="center" valign="center">
+            <div id="data_bef_img"></div>
+            <br />
+
+        </td>
+        <td align="center" valign="center">
+            <div id="check"></div>
+            <br />
+        </td>
+
+
+
+    </tr>
+    <tr>
+        <td align="center" valign="center">
+            <div id="data_for_img"></div>
+            <br />
+
+        </td>
+        <td align="center" valign="center">
+            <div id="tags"></div>
+            <div id="results"></div>
+            <br />
+
+        </td>
+
+
+
+
+
+    </tr>
+
+
+</table>
+
+
+<!-- Scripts -->
+<!--[if lte IE 8]><!--script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<!--script src="assets/js/main.js"></script-->
+
+
+
+</body>
+</html>
