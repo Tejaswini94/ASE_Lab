@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transition.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transition.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transition.png",
+        "source": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-videoplayer\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    }
+]
