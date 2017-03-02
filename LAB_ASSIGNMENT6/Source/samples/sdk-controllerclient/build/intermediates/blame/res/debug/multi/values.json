@@ -1,0 +1,2288 @@
+[
+    {
+        "outputFile": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 196,
+                        "endColumn": 52,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 51,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 45,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 106,
+                        "endColumn": 43,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 53,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 54,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 376,
+                        "endColumn": 50,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 57,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 427,
+                        "endColumn": 53,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 44,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 61,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 481,
+                        "endColumn": 57,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 63,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 617,
+                        "endLine": 15,
+                        "endColumn": 11,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endLine": 16,
+                    "endColumn": 13,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 848,
+                        "endLine": 18,
+                        "endColumn": 13,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1152,
+                        "endLine": 21,
+                        "endColumn": 11,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1439,
+                        "endLine": 24,
+                        "endColumn": 11,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1622,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endLine": 28,
+                    "endColumn": 13,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1959,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 2292,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endLine": 34,
+                    "endColumn": 13,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2525,
+                        "endLine": 36,
+                        "endColumn": 13,
+                        "endOffset": 2723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endLine": 37,
+                    "endColumn": 11,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2724,
+                        "endLine": 39,
+                        "endColumn": 11,
+                        "endOffset": 2920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 3152
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2921,
+                        "endLine": 42,
+                        "endColumn": 11,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3157,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 3366
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 3131,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 3340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3371,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 3341,
+                        "endLine": 48,
+                        "endColumn": 11,
+                        "endOffset": 3471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 0,
+                        "startOffset": 3472,
+                        "endLine": 52,
+                        "endColumn": 11,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endLine": 54,
+                    "endColumn": 11,
+                    "endOffset": 4101
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 3768,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4106,
+                    "endLine": 57,
+                    "endColumn": 13,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 4064,
+                        "endLine": 59,
+                        "endColumn": 13,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 4370,
+                        "endLine": 62,
+                        "endColumn": 11,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endColumn": 206,
+                    "endOffset": 4848
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 0,
+                        "startOffset": 4596,
+                        "endColumn": 202,
+                        "endOffset": 4798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4853,
+                    "endLine": 64,
+                    "endColumn": 13,
+                    "endOffset": 5054
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 4799,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5059,
+                    "endLine": 67,
+                    "endColumn": 13,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 5001,
+                        "endLine": 69,
+                        "endColumn": 13,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endLine": 70,
+                    "endColumn": 13,
+                    "endOffset": 5664
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 5282,
+                        "endLine": 72,
+                        "endColumn": 13,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5669,
+                    "endLine": 73,
+                    "endColumn": 11,
+                    "endOffset": 5871
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 0,
+                        "startOffset": 5607,
+                        "endLine": 75,
+                        "endColumn": 11,
+                        "endOffset": 5809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5876,
+                    "endLine": 76,
+                    "endColumn": 13,
+                    "endOffset": 6174
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 0,
+                        "startOffset": 5810,
+                        "endLine": 78,
+                        "endColumn": 13,
+                        "endOffset": 6108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6179,
+                    "endLine": 79,
+                    "endColumn": 13,
+                    "endOffset": 6387
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 0,
+                        "startOffset": 6109,
+                        "endLine": 81,
+                        "endColumn": 13,
+                        "endOffset": 6317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6392,
+                    "endLine": 82,
+                    "endColumn": 13,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 0,
+                        "startOffset": 6318,
+                        "endLine": 84,
+                        "endColumn": 13,
+                        "endOffset": 6508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endLine": 85,
+                    "endColumn": 8,
+                    "endOffset": 6745
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 6585,
+                        "endLine": 89,
+                        "endColumn": 8,
+                        "endOffset": 6743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6750,
+                    "endLine": 87,
+                    "endColumn": 8,
+                    "endOffset": 6809
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 0,
+                        "startOffset": 6832,
+                        "endLine": 93,
+                        "endColumn": 8,
+                        "endOffset": 6891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6814,
+                    "endLine": 93,
+                    "endColumn": 8,
+                    "endOffset": 7056
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 6968,
+                        "endLine": 101,
+                        "endColumn": 8,
+                        "endOffset": 7210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7061,
+                    "endLine": 100,
+                    "endColumn": 8,
+                    "endOffset": 7411
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 0,
+                        "startOffset": 7299,
+                        "endLine": 110,
+                        "endColumn": 8,
+                        "endOffset": 7649
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 196,
+                        "endColumn": 52,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 51,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 45,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 106,
+                        "endColumn": 43,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 53,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 54,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 376,
+                        "endColumn": 50,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 57,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 427,
+                        "endColumn": 53,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 44,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 61,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 481,
+                        "endColumn": 57,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 63,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 617,
+                        "endLine": 15,
+                        "endColumn": 11,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endLine": 16,
+                    "endColumn": 13,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 848,
+                        "endLine": 18,
+                        "endColumn": 13,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1152,
+                        "endLine": 21,
+                        "endColumn": 11,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1439,
+                        "endLine": 24,
+                        "endColumn": 11,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1622,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endLine": 28,
+                    "endColumn": 13,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1959,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 2292,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endLine": 34,
+                    "endColumn": 13,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2525,
+                        "endLine": 36,
+                        "endColumn": 13,
+                        "endOffset": 2723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endLine": 37,
+                    "endColumn": 11,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2724,
+                        "endLine": 39,
+                        "endColumn": 11,
+                        "endOffset": 2920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 3152
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2921,
+                        "endLine": 42,
+                        "endColumn": 11,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3157,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 3366
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 3131,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 3340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3371,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 3341,
+                        "endLine": 48,
+                        "endColumn": 11,
+                        "endOffset": 3471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 0,
+                        "startOffset": 3472,
+                        "endLine": 52,
+                        "endColumn": 11,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endLine": 54,
+                    "endColumn": 11,
+                    "endOffset": 4101
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 3768,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4106,
+                    "endLine": 57,
+                    "endColumn": 13,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 4064,
+                        "endLine": 59,
+                        "endColumn": 13,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 4370,
+                        "endLine": 62,
+                        "endColumn": 11,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endColumn": 206,
+                    "endOffset": 4848
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 0,
+                        "startOffset": 4596,
+                        "endColumn": 202,
+                        "endOffset": 4798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4853,
+                    "endLine": 64,
+                    "endColumn": 13,
+                    "endOffset": 5054
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 4799,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5059,
+                    "endLine": 67,
+                    "endColumn": 13,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 5001,
+                        "endLine": 69,
+                        "endColumn": 13,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endLine": 70,
+                    "endColumn": 13,
+                    "endOffset": 5664
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 5282,
+                        "endLine": 72,
+                        "endColumn": 13,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5669,
+                    "endLine": 73,
+                    "endColumn": 11,
+                    "endOffset": 5871
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 0,
+                        "startOffset": 5607,
+                        "endLine": 75,
+                        "endColumn": 11,
+                        "endOffset": 5809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5876,
+                    "endLine": 76,
+                    "endColumn": 13,
+                    "endOffset": 6174
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 0,
+                        "startOffset": 5810,
+                        "endLine": 78,
+                        "endColumn": 13,
+                        "endOffset": 6108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6179,
+                    "endLine": 79,
+                    "endColumn": 13,
+                    "endOffset": 6387
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 0,
+                        "startOffset": 6109,
+                        "endLine": 81,
+                        "endColumn": 13,
+                        "endOffset": 6317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6392,
+                    "endLine": 82,
+                    "endColumn": 13,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 0,
+                        "startOffset": 6318,
+                        "endLine": 84,
+                        "endColumn": 13,
+                        "endOffset": 6508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endLine": 85,
+                    "endColumn": 8,
+                    "endOffset": 6745
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 6585,
+                        "endLine": 89,
+                        "endColumn": 8,
+                        "endOffset": 6743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6750,
+                    "endLine": 87,
+                    "endColumn": 8,
+                    "endOffset": 6809
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 0,
+                        "startOffset": 6832,
+                        "endLine": 93,
+                        "endColumn": 8,
+                        "endOffset": 6891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6814,
+                    "endLine": 93,
+                    "endColumn": 8,
+                    "endOffset": 7056
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 6968,
+                        "endLine": 101,
+                        "endColumn": 8,
+                        "endOffset": 7210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7061,
+                    "endLine": 100,
+                    "endColumn": 8,
+                    "endOffset": 7411
+                },
+                "from": {
+                    "file": "C:\\Users\\Divya Gaddam\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 0,
+                        "startOffset": 7299,
+                        "endLine": 110,
+                        "endColumn": 8,
+                        "endOffset": 7649
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 196,
+                        "endColumn": 52,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 51,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 45,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 106,
+                        "endColumn": 43,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 53,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 54,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 376,
+                        "endColumn": 50,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 57,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 427,
+                        "endColumn": 53,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 44,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 61,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 481,
+                        "endColumn": 57,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 63,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 617,
+                        "endLine": 15,
+                        "endColumn": 11,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endLine": 16,
+                    "endColumn": 13,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 848,
+                        "endLine": 18,
+                        "endColumn": 13,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1152,
+                        "endLine": 21,
+                        "endColumn": 11,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1439,
+                        "endLine": 24,
+                        "endColumn": 11,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1622,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endLine": 28,
+                    "endColumn": 13,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1959,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 2292,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endLine": 34,
+                    "endColumn": 13,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2525,
+                        "endLine": 36,
+                        "endColumn": 13,
+                        "endOffset": 2723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endLine": 37,
+                    "endColumn": 11,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2724,
+                        "endLine": 39,
+                        "endColumn": 11,
+                        "endOffset": 2920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 3152
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2921,
+                        "endLine": 42,
+                        "endColumn": 11,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3157,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 3366
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 3131,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 3340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3371,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 3341,
+                        "endLine": 48,
+                        "endColumn": 11,
+                        "endOffset": 3471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 0,
+                        "startOffset": 3472,
+                        "endLine": 52,
+                        "endColumn": 11,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endLine": 54,
+                    "endColumn": 11,
+                    "endOffset": 4101
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 3768,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4106,
+                    "endLine": 57,
+                    "endColumn": 13,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 4064,
+                        "endLine": 59,
+                        "endColumn": 13,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 4370,
+                        "endLine": 62,
+                        "endColumn": 11,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endColumn": 206,
+                    "endOffset": 4848
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 0,
+                        "startOffset": 4596,
+                        "endColumn": 202,
+                        "endOffset": 4798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4853,
+                    "endLine": 64,
+                    "endColumn": 13,
+                    "endOffset": 5054
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 4799,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5059,
+                    "endLine": 67,
+                    "endColumn": 13,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 5001,
+                        "endLine": 69,
+                        "endColumn": 13,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endLine": 70,
+                    "endColumn": 13,
+                    "endOffset": 5664
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 5282,
+                        "endLine": 72,
+                        "endColumn": 13,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5669,
+                    "endLine": 73,
+                    "endColumn": 11,
+                    "endOffset": 5871
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 0,
+                        "startOffset": 5607,
+                        "endLine": 75,
+                        "endColumn": 11,
+                        "endOffset": 5809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5876,
+                    "endLine": 76,
+                    "endColumn": 13,
+                    "endOffset": 6174
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 0,
+                        "startOffset": 5810,
+                        "endLine": 78,
+                        "endColumn": 13,
+                        "endOffset": 6108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6179,
+                    "endLine": 79,
+                    "endColumn": 13,
+                    "endOffset": 6387
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 0,
+                        "startOffset": 6109,
+                        "endLine": 81,
+                        "endColumn": 13,
+                        "endOffset": 6317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6392,
+                    "endLine": 82,
+                    "endColumn": 13,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 0,
+                        "startOffset": 6318,
+                        "endLine": 84,
+                        "endColumn": 13,
+                        "endOffset": 6508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endLine": 85,
+                    "endColumn": 8,
+                    "endOffset": 6745
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 6585,
+                        "endLine": 89,
+                        "endColumn": 8,
+                        "endOffset": 6743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6750,
+                    "endLine": 87,
+                    "endColumn": 8,
+                    "endOffset": 6809
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 0,
+                        "startOffset": 6832,
+                        "endLine": 93,
+                        "endColumn": 8,
+                        "endOffset": 6891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6814,
+                    "endLine": 93,
+                    "endColumn": 8,
+                    "endOffset": 7056
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 6968,
+                        "endLine": 101,
+                        "endColumn": 8,
+                        "endOffset": 7210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7061,
+                    "endLine": 100,
+                    "endColumn": 8,
+                    "endOffset": 7411
+                },
+                "from": {
+                    "file": "C:\\Users\\SWATHI\\Desktop\\VR App\\samples\\sdk-controllerclient\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 0,
+                        "startOffset": 7299,
+                        "endLine": 110,
+                        "endColumn": 8,
+                        "endOffset": 7649
+                    }
+                }
+            }
+        ]
+    }
+]

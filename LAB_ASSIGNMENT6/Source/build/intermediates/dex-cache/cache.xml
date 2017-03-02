@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Divya Gaddam\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.1.0\5110f05deac8f15244897b3f70e9ce413468771d\protobuf-javanano-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\pre-dexed\debug\protobuf-javanano-3.1.0_4f6e5faa80cbae487ccdca00b0f1509cf1fd5709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\exploded-aar\com.google.vr\sdk-base\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f6770ee13216c2d96bb83bbd1c99a3110f8a0ab">
+        <dex dex="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\pre-dexed\debug\com.google.vr-sdk-base-1.20.0_69fd941a16afc25fbf2f18bb3841924d90c2f79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\exploded-aar\com.google.vr\sdk-common\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67403bd58f399f39aa47e5e186d4f94c0e1322a2">
+        <dex dex="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\pre-dexed\debug\com.google.vr-sdk-common-1.20.0_e2170b934d798463398b1ac71a37a1dbb689d557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\exploded-aar\com.google.vr\sdk-audio\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8524a9272bddeed0a2f9e1603e8ce11925e7c40">
+        <dex dex="C:\Users\Divya Gaddam\Documents\GitHub\gvr-android-sdk\samples\sdk-treasurehunt\build\intermediates\pre-dexed\debug\com.google.vr-sdk-audio-1.20.0_d6baccc1e34e4e18e1d6fd7be7710c121e7ce49a.jar" />
+    </item>
+
+</items>
