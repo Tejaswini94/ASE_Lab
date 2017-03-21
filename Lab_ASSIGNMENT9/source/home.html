@@ -1,0 +1,225 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Image Tags and Text to Speech</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <script src="clarifai.js"></script>
+    <script src="keys.js"></script>
+    <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <style>
+        body {
+            background: #eee;
+            font: 12px Lucida sans, Arial, Helvetica, sans-serif;
+            color: #333;
+            text-align: center;
+        }
+        body
+        {
+            background: url('http://minimedi.sk/domains/5h474d9u6p/images/background_image.jpg?1486487236') fixed;
+            background-size: cover;
+            padding: 0;
+            margin: 0;
+        }
+
+        a {
+            color: #2A679F;
+        }
+        /*========*/
+
+        .form-wrapper {
+            background-color: #f6f6f6;
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#f6f6f6), to(#eae8e8));
+            background-image: -webkit-linear-gradient(top, #f6f6f6, #eae8e8);
+            background-image: -moz-linear-gradient(top, #f6f6f6, #eae8e8);
+            background-image: -ms-linear-gradient(top, #f6f6f6, #eae8e8);
+            background-image: -o-linear-gradient(top, #f6f6f6, #eae8e8);
+            background-image: linear-gradient(top, #f6f6f6, #eae8e8);
+            border-color: #dedede #bababa #aaa #bababa;
+            border-style: solid;
+            border-width: 1px;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+            -webkit-box-shadow: 0 3px 3px rgba(255,255,255,.1), 0 3px 0 #bbb, 0 4px 0 #aaa, 0 5px 5px #444;
+            -moz-box-shadow: 0 3px 3px rgba(255,255,255,.1), 0 3px 0 #bbb, 0 4px 0 #aaa, 0 5px 5px #444;
+            box-shadow: 0 3px 3px rgba(255,255,255,.1), 0 3px 0 #bbb, 0 4px 0 #aaa, 0 5px 5px #444;
+            margin: 100px auto;
+            overflow: hidden;
+            padding: 8px;
+            width: 450px;
+        }
+
+        .form-wrapper #search {
+            border: 1px solid #CCC;
+            -webkit-box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #FFF;
+            -moz-box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #FFF;
+            box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #FFF;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+            color: #999;
+            float: left;
+            font: 16px Lucida Sans, Trebuchet MS, Tahoma, sans-serif;
+            height: 20px;
+            padding: 10px;
+            width: 320px;
+        }
+
+        .form-wrapper #search:focus {
+            border-color: #aaa;
+            -webkit-box-shadow: 0 1px 1px #bbb inset;
+            -moz-box-shadow: 0 1px 1px #bbb inset;
+            box-shadow: 0 1px 1px #bbb inset;
+            outline: 0;
+        }
+
+        .form-wrapper #search:-moz-placeholder,
+        .form-wrapper #search:-ms-input-placeholder,
+        .form-wrapper #search::-webkit-input-placeholder {
+            color: #999;
+            font-weight: normal;
+        }
+
+        .form-wrapper #submit {
+            background-color: #0483a0;
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#31b2c3), to(#0483a0));
+            background-image: -webkit-linear-gradient(top, #31b2c3, #0483a0);
+            background-image: -moz-linear-gradient(top, #31b2c3, #0483a0);
+            background-image: -ms-linear-gradient(top, #31b2c3, #0483a0);
+            background-image: -o-linear-gradient(top, #31b2c3, #0483a0);
+            background-image: linear-gradient(top, #31b2c3, #0483a0);
+            border: 1px solid #00748f;
+            -moz-border-radius: 3px;
+            -webkit-border-radius: 3px;
+            border-radius: 3px;
+            -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset, 0 1px 0 #FFF;
+            -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset, 0 1px 0 #FFF;
+            box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset, 0 1px 0 #FFF;
+            color: #fafafa;
+            cursor: pointer;
+            height: 42px;
+            float: right;
+            font: 15px Arial, Helvetica;
+            padding: 0;
+            text-transform: uppercase;
+            text-shadow: 0 1px 0 rgba(0, 0 ,0, .3);
+            width: 100px;
+        }
+
+        .form-wrapper #submit:hover,
+        .form-wrapper #submit:focus {
+            background-color: #31b2c3;
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#0483a0), to(#31b2c3));
+            background-image: -webkit-linear-gradient(top, #0483a0, #31b2c3);
+            background-image: -moz-linear-gradient(top, #0483a0, #31b2c3);
+            background-image: -ms-linear-gradient(top, #0483a0, #31b2c3);
+            background-image: -o-linear-gradient(top, #0483a0, #31b2c3);
+            background-image: linear-gradient(top, #0483a0, #31b2c3);
+        }
+
+        .form-wrapper #submit:active {
+            -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+            -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+            outline: 0;
+        }
+
+        .form-wrapper #submit::-moz-focus-inner {
+            border: 0;
+        }
+        #container {
+            width: 300px;
+            background-color: #ffcc33;
+            margin: auto;
+        }
+        #first {
+            width: 100px;
+            float: left;
+            height: 300px;
+            background-color: blue;
+        }
+        #second {
+            width: 200px;
+            float: left;
+            height: 300px;
+            background-color: green;
+        }
+
+    </style>
+</head>
+<body>
+
+<!-- Header -->
+<header id="header">
+    <h3 align="center">Retrieving image tags and text to speech</h3>
+    <p align="center">Please enter the image url in the below text box and click get tags button.</p>
+</header>
+
+<br><br><br><br><br>
+<div class="form-inline" >
+    <input class="form-control" style="width:300px;" type="text" id="imgurl"  placeholder="Image URL"/>
+    <button class="btn btn-primary" style="width:300px;" onclick="run(document.getElementById('imgurl').value)">Get tags!</button>
+
+
+
+</div>
+<br />
+
+
+
+
+
+
+
+<table align="center"  width="1200" height="200" border="0" cellpadding="5">
+    <tr>
+
+        <td align="center" valign="center">
+            <div id="data_bef_img"></div>
+            <br />
+
+        </td>
+        <td align="center" valign="center">
+            <div id="check"></div>
+            <br />
+        </td>
+
+
+
+    </tr>
+    <tr>
+        <td align="center" valign="center">
+            <h3><b><div id="data_for_img"></div></b></h3>
+            <br />
+
+        </td>
+        <td align="center" valign="center">
+            <div id="tags"></div>
+            <br />
+        </td>
+
+
+
+
+
+    </tr>
+
+
+</table>
+
+
+<!-- Scripts -->
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
