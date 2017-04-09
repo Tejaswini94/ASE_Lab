@@ -10,3 +10,5 @@ Lab_4:https://github.com/Tejaswini94/ASE_Lab/wiki/Lab_4
 lab_5:https://github.com/Tejaswini94/ASE_Lab/wiki/Lab_5
 
 Lab_6:https://github.com/Tejaswini94/ASE_Lab/wiki/Lab_6
+
+Lab_10:https://github.com/Tejaswini94/ASE_Lab/wiki/Lab_10
